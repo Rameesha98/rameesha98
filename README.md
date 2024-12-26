@@ -23,5 +23,5 @@
 
 | ![Rameesha's github stats](https://github-readme-stats.vercel.app/api?username=rameesha98&show_icons=true&theme=tokyonight) | ![Rameesha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameesha98&theme=tokyonight) |
 | --- | --- |
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=rameesha98&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<div align="center"> | ![Github Stars](https://github-readme-stats.vercel.app/api?username=rameesha98&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | </div>
 
