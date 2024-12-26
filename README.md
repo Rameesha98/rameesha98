@@ -13,7 +13,7 @@
 
 - 🧑‍🎓I’m an Undergraduate at **UoVT**
 
-- 💬 Ask me about **Java , C++ , MySQL**
+- 💬 Ask me about **Java , C++ , MySQL , HTML**
 
 - ⚡ Fun fact **Call me as RaveeJ**
 
