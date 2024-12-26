@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rameesha Jayawardhana</h1>
 <h3 align="center">Passionate IT Student | Discovering the Future of Information and Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rameesha98&label=Profile%20views&color=0e75b6&style=flat" alt="rameesha98" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rameesha98&label=Profile%20views&color=0e75b6&style=flat" alt="rameesha98" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
