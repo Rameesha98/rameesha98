@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java , C++ , MySQL , HTML**
 
-- ⚡ Fun fact **Call me as RaveeJ**
+- ⚡ Fun fact Call me as **RaveeJ**
 
 
 <p align="left">
