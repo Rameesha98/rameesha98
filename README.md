@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **hasangamage95@gmail.com**
+- 📫 How to reach me **hasangamage95@gmail.com**(Work) / **rameeshvihan@gmail.com**(Personal)
 
 - 🧑‍🎓I’m an Undergraduate at **UoVT**
 
