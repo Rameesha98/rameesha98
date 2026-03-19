@@ -13,7 +13,7 @@
 
 - 🧑‍🎓I’m an Undergraduate at <a href="https://univotec.ac.lk/">**UoVT**</a>
 
-- 💬 Ask me about **Java , C++ , MySQL , HTML**
+- 💬 Ask me about **Cyber Security , Java , C++ , MySQL , HTML**
 
 - ⚡ Fun fact Call me as **RaveeJ**
 
